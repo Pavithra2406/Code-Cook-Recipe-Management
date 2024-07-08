@@ -1,0 +1,66 @@
+Recipe:
+curd rice
+south indian
+True
+1
+Ingredients:
+boiled rice: 1.0 cup
+curd: 250.0 ml
+sal: 1.0 teaspoon
+curry leaves: 1.0 slit
+Instructions:
+add curd to the rice
+mix curd and rice well
+add salt and curry leaves
+serve with green grapes garnished
+Replacements:
+curry leaves: 1.0 slit coriander
+
+Recipe:
+lemonade
+Indian
+True
+2
+Ingredients:
+Lemon: 1.0 1
+Water: 200.0 ml
+Sugar: 1.0 tbsp
+Honey: 3.0 g
+Instructions:
+Take 200 ml of water
+Take a lemon
+Cut and squeeze it
+Mix them by adding sugar and honey
+Replacements:
+honey: 1.0 tbsp Jaggery
+water: 200.0 ml soda
+
+Recipe:
+chicken 65
+south indian
+False
+1
+Ingredients:
+chicken meat: 250.0 grams
+chilly powder: 25.0 g
+corn flour: 15.0 g
+salt: 1.0 teaspoon
+egg: 1.0 number
+oil: 250.0 ml
+Instructions:
+wash the chicken well
+add corn flour,chilly powder, salt and mix well
+crack open egg and add it to the mix and combine
+marinate it for 15 mins
+pour oil in pan and heat well
+once oil is well heated add marinated chicken little by little and deep fry
+cook untill golden brown and strain out the chicken
+serve hot
+Replacements:
+chicken: 250.0 g fish
+chilly powder: 25.0 g chicken masala
+
+=== Program Ratings ===
+
+=== Program Comments ===
+
